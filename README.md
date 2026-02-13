@@ -1,6 +1,6 @@
-# 🍽️ AI-Powered Restaurant Demand Forecasting System
+ AI-Powered Restaurant Demand Forecasting System
 
-## 📌 Overview
+ Overview
 
 This project implements a production-oriented machine learning pipeline designed to forecast daily restaurant demand. The objective is to help hospitality businesses optimize staffing, inventory management, revenue forecasting, and reduce operational waste.
 
@@ -8,7 +8,7 @@ The system combines time-series forecasting techniques with ensemble regression 
 
 ---
 
-## 🎯 Business Objective
+ Business Objective
 
 Restaurants frequently face operational inefficiencies due to inaccurate demand estimation, resulting in:
 
@@ -21,15 +21,15 @@ This project delivers a predictive analytics framework that supports data-driven
 
 ---
 
-## 🧠 Machine Learning Architecture
+ Machine Learning Architecture
 
-### Models Implemented
+Models Implemented
 
 - Prophet – Time-series forecasting with seasonality modeling  
 - Random Forest Regressor – Non-linear regression baseline  
 - XGBoost Regressor – Gradient boosting performance model  
 
-### Feature Engineering
+Feature Engineering
 
 - Day-of-week encoding  
 - Weekend indicator  
@@ -40,7 +40,7 @@ This project delivers a predictive analytics framework that supports data-driven
 
 ---
 
-## 📊 Model Performance
+ Model Performance
 
 - Improved forecasting accuracy over naive baseline models  
 - Reduced simulated demand prediction error  
@@ -51,5 +51,5 @@ This project delivers a predictive analytics framework that supports data-driven
 
 ---
 
-## 🏗️ Project Structure
+Project Structure
 
